@@ -11,44 +11,44 @@ const artistName = document.querySelector(".music-player p");
 const songs = [
   {
     title: "Ram Aayenge 🚩",
-    name: "Ram Aayenge 🚩By Shobhit Asthana",
+    name: "Ram Aayenge 🚩By Amit singh",
     source:
       "Ram Aayenge.m4a",
   },
   {
     title: "ADHARAM MADHURAM",
-    name: "ADHARAM MADHURAM By Shobhit Asthana",
+    name: "ADHARAM MADHURAM By Amit singh",
     source:
       "ADHARAM MADHURAM.m4a",
   },
   {
     title: "Ram Aayenge 🚩",
-    name: "Ram Aayenge 🚩By Shobhit Asthana",
+    name: "Ram Aayenge 🚩By Amit singh",
     source:
       "Ram Aayenge.m4a",
   },
   {
     title: "Keejo Kesari Ke Laal",
-    name: "Keejo Kesari Ke Laal By Shobhit Asthana",
+    name: "Keejo Kesari Ke Laal By Amit singh",
     source:
       "Keejo Kesari Ke Laal.m4a",
   },
   {
     title: "Shiv Tandav Stotram",
-    name: "Shiv Tandav Stotram By Shobhit Asthana",
+    name: "Shiv Tandav Stotram By Amit singh",
     source:
       "Shiv Tandav Stotram.m4a",
   },
 
   {
     title: "ganpati bappa morya 🙏🙏🚩🚩❤️❤️❤️❤️",
-    name: "ganpati bappa morya 🙏🚩❤️ by Shobhit Asthana",
+    name: "ganpati bappa morya 🙏🚩❤️ by Amit singh",
     source:
       "ganpati bappa morya.m4a",
   },
   {
     title: "Shakti Hai Bhakti Hai",
-    name: "Shakti Hai Bhakti Hai By Shobhit Ashana",
+    name: "Shakti Hai Bhakti Hai By Amit singh",
     source:
       "Shakti Hai Bhakti Hai.m4a",
   },
